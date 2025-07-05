@@ -38,7 +38,7 @@ This project is a Machine Learning lab task that performs an end-to-end analysis
 ## 📈 Visualizations
 The notebook includes:
 
--Correlation heatmaps
--PCA component plots
--Cluster visualizations (scatter plots, dendrograms)
+-Correlation heatmaps\
+-PCA component plots\
+-Cluster visualizations (scatter plots, dendrograms)\
 -Rule mining tables (support, lift)
