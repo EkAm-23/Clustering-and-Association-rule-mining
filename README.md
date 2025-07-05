@@ -19,14 +19,14 @@ This project is a Machine Learning lab task that performs an end-to-end analysis
 - Retain components that explain ~80–90% of the variance
 
 ### 📌 Clustering Algorithms
-#### ✅ K-Means
+####  K-Means
 - Use **Elbow Method** to determine optimal `K`
 - Visualize clusters post-PCA
 
-#### 🧩 Hierarchical Clustering
+####  Hierarchical Clustering
 - Use **Dendrograms** to understand cluster formation
 
-#### 🌌 DBSCAN
+####  DBSCAN
 - Density-based clustering
 - Identifies noise and arbitrarily shaped clusters
 
